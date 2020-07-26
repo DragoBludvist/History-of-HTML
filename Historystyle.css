@@ -1,0 +1,81 @@
+.mainpage
+{
+
+	background: url(https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);
+	background-size: cover;
+	background-position: center;
+}
+
+.intropage
+{
+ 
+	background-color:  #ecf0f1;
+	padding-top: 70px;
+}
+.historypage
+{
+ 
+	background-color:  #ecf0f1;
+	padding-top: 70px;
+}
+.founderpage
+{
+ 
+	background-color:  #ecf0f1;
+	padding-top: 70px;
+}
+
+.comparepage
+{
+ 
+	background-color:  #ecf0f1;
+	padding-top: 70px;
+}
+
+body
+{
+	
+	background-color:  #f5edd5;
+	padding-top: 70px;
+}
+h1
+{
+	font-color: #7d001d;
+	font-family: lato;
+	text-decoration: underline;
+
+}
+h3
+{
+  font-family: lato;
+  font-color: #7d001d;
+  text-decoration: underline;
+}
+img
+{	
+	border: solid 5px #DCF207 ;
+	margin: 20px 30px 40px 50px;
+}
+p
+{
+	font-size: 16px;
+	font-family: Oswald;
+	font-color: #7d001d;
+
+}
+.jumbotron
+{
+	color: #2c3e50;
+	background: #ecf0f1;
+}
+.navbar-inverse
+{
+	background-color: #2c3e50;
+}
+
+.navbar-inverse .navbar-brand{
+	color: white;
+}
+.navbar-inverse .navbar-nav>li>a{
+	color: white;
+}
